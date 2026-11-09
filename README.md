@@ -1,5 +1,23 @@
 # 美团技术年货合集
 
+## 2020
+
+<https://tech.meituan.com/2021/02/04/2021-Spring-Festival-Present.html>
+
+- 2020美团技术年货合辑：共1308页，约80M；
+- 前端篇：共247页，约12M；
+- 后台篇：共391页，约22M；
+- 算法篇：共317页，约18M；
+- 顶会论文精选：共130页，约17M。
+
+<!-- 
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/2020美团技术年货-合集.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/2020美团技术年货-前端篇.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/2020美团技术年货-后台篇.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/2020美团技术年货-算法篇.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/2020美团技术年货-顶会论文精选.pdf
+ -->
+
 ## 2019
 
 <https://tech.meituan.com/2020/01/17/meituan-tech-blog-2019.html>
