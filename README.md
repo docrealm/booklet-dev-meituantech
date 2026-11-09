@@ -1,5 +1,11 @@
 # 美团技术年货合集
 
+## 2023
+
+<https://tech.meituan.com/2024/02/01/2023-Spring-Festival-Present.html>
+
+美团技术年货合集：30多篇技术文章和科研论文（共600多页，约100M）
+
 ## 2022
 
 <https://tech.meituan.com/2023/01/13/2022-Spring-Festival-Present.html>
