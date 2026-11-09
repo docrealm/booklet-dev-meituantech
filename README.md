@@ -1,5 +1,13 @@
 # 美团技术年货合集
 
+## 2025
+
+<https://tech.meituan.com/2026/02/02/2025-Spring-Festival-Present.html>
+
+2025年技术年货合集：40多篇优质技术文章（共500多页，约60M）
+
+<!-- https://s3plus.meituan.net/ddfile/2025-美团技术年货.pdf -->
+
 ## 2024
 
 <https://tech.meituan.com/2025/01/16/2024-Spring-Festival-Present.html>
