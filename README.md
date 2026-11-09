@@ -1,5 +1,28 @@
 # 美团技术年货合集
 
+## 2018
+
+<https://tech.meituan.com/2019/01/25/present-by-tech-team-2019.html>
+
+2018美团点评技术年货合辑：1200+页；
+- 前端系列：共566页，约90M；
+- 后台系列：共229页，约60M；
+- 系统系列：共165页，约48M；
+- 算法系列：共183页，约56M；
+- 运维系列：共140页，约36M；
+- 测试系列：共88页，约28M；
+- 工程师成长系列：共49页，约16M。
+
+<!--
+https://awps-assets.meituan.net/mit-x/2018-ebook-bundle1/2018-ebook-backend.pdf
+https://awps-assets.meituan.net/mit-x/2018-ebook-bundle2/2018-ebook-engineer.pdf
+https://awps-assets.meituan.net/mit-x/2018-ebook-bundle3/2018-ebook-frontend.pdf
+https://awps-assets.meituan.net/mit-x/2018-ebook-bundle4/2018-ebook-ai.pdf
+https://awps-assets.meituan.net/mit-x/2018-ebook-bundle2/2018-ebook-sre.pdf
+https://awps-assets.meituan.net/mit-x/2018-ebook-bundle1/2018-ebook-qa.pdf
+https://awps-assets.meituan.net/mit-x/2018-ebook-bundle2/2018-ebook-system.pdf
+-->
+
 ## 2017
 
 - 文章：<https://tech.meituan.com/2018/03/20/2018summary.html>
