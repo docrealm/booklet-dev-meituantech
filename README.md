@@ -1,5 +1,26 @@
 # 美团技术年货合集
 
+## 2019
+
+<https://tech.meituan.com/2020/01/17/meituan-tech-blog-2019.html>
+
+2019美团点评技术年货合辑：900+页；
+- 前端系列：共294页，约30M；
+- 后台系列：共307页，约29M；
+- 算法系列：共186页，约20M；
+- 大数据系列：共94页，约12M；
+- 学术论文系列：共62页，约7M。
+
+<!-- 
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/美团点评2019年技术年货.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/前端篇.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/2020美团技术年货-前端篇.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/算法篇.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/后台篇.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/大数据篇.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/学术论文篇.pdf
+-->
+
 ## 2018
 
 <https://tech.meituan.com/2019/01/25/present-by-tech-team-2019.html>
