@@ -1,5 +1,24 @@
 # 美团技术年货合集
 
+## 2021
+
+<https://tech.meituan.com/2022/01/20/2022-happy-new-year.html>
+
+- 2021美团技术年货合辑：共1250页，约108M（50多篇技术文章以及20多篇国际顶会论文）；
+- 2019年-2021年：
+    - 2019年-2021年前端篇：共735页，约52M；
+    - 2019年-2021年后端篇：共950页，约65M；
+    - 2019年-2021年算法篇：共920页，约75M；
+    - 2019年-2021年综合篇：共475页，约37M。
+
+<!-- 
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/2021年美团技术年货-20220120.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/2019-2021美团技术年货-前端篇.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/2019-2021美团技术年货-后端篇.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/2019-2021美团技术年货-算法篇.pdf
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/2019-2021美团技术年货-综合篇.pdf
+ -->
+
 ## 2020
 
 <https://tech.meituan.com/2021/02/04/2021-Spring-Festival-Present.html>
